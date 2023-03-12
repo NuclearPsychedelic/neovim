@@ -19,4 +19,3 @@ set number
 "Search case sensitivity settings
 set ignorecase
 set smartcase
-
